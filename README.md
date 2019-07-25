@@ -1,4 +1,5 @@
 # Webpack-Config-Vue
+## * -> npm run build:dev
 # http://localhost:5454/
 
 ## Project setup
